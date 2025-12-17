@@ -1,1 +1,20 @@
-1
+{
+  "mods": [
+    {
+      "name": "fabric-api.jar",
+      "url": "https://github.com/FabricMC/fabric/releases/download/0.92.0/fabric-api-0.92.0.jar",
+      "version": "0.92.0"
+    },
+    {
+      "name": "jei.jar",
+      "url": "https://github.com/mezz/JustEnoughItems/releases/download/12.5.0/jei-1.21.1-12.5.0.jar",
+      "version": "12.5.0"
+    },
+    {
+      "name": "worldedit.jar",
+      "url": "https://github.com/EngineHub/WorldEdit/releases/download/7.3.0/worldedit-fabric-mc1.21.1-7.3.0.jar",
+      "version": "7.3.0"
+    }
+  ]
+}
+
